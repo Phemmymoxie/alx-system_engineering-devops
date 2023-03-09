@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod aR+x 
+chmod -R 111 * 
