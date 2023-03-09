@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod ad+x 
+chmod aR+x 
